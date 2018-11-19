@@ -1,0 +1,8 @@
+{
+  "name": "@eagle/core",
+  "version": "0.1.0",
+  "description": "Core library of the Eagle admin",
+  "repository": "https://github.com/pinoniq/babel-core",
+  "author": "Jeroen Meeus",
+  "license": "MIT"
+}
